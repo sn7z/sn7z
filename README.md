@@ -22,8 +22,13 @@
 
 ---
 
+## 🎯 What I Do
+
+I design and develop intelligent AI & ML-powered systems that solve real-world problems, with a focus on automation, data-driven insights, and user-centric solutions. I build end-to-end pipelines—from data preprocessing to model deployment—using modern tools like Python, TensorFlow, PyTorch, and MLOps stacks. I’ve worked on projects spanning disease prediction, harassment response systems, pediatric health monitoring, and AI-based personal assistants, integrating technologies like LangChain, FastAPI, Streamlit, and cloud platforms.
+
 <img align="right" alt="Coding" width="350" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+I’m currently working on:
 - 🔭 I’m currently working on **AI & ML-based systems**  
 - 🌱 I’m currently learning **MLOps, LangChain, and Deployment tools**  
 - 💬 Ask me about **ML, Deep Learning, Python, TensorFlow, PyTorch**  
@@ -53,6 +58,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60" style="margin: 0 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 0 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 0 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60" style="margin: 0 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="60" height="60" style="margin: 0 10px;">
 </p>
