@@ -67,7 +67,7 @@ I’m currently working on:
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,11 +88,11 @@ I’m currently working on:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sn7z&theme=github_dark_dimmed&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sn7z&theme=dark" />
 </p>
 
 ---
-
+-->
 ## 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/syednumaan15?theme=nord&ext=contest" />
