@@ -29,6 +29,15 @@ I’m **Syed Numaan**, an AI/ML Engineer from Hyderabad, India, focused on turni
 
 I’m currently pursuing a **B.E. in Computer Science & Engineering (AI & ML)** at Lords Institute of Engineering & Technology (2022–2026). I enjoy building from the model layer to the interface: multimodal detection, knowledge graphs, RAG assistants, AI agents, and social-impact software.
 
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>01</strong><br /><sub>Applied AI</sub></td>
+    <td align="center" width="25%"><strong>02</strong><br /><sub>Generative AI</sub></td>
+    <td align="center" width="25%"><strong>03</strong><br /><sub>Explainable ML</sub></td>
+    <td align="center" width="25%"><strong>04</strong><br /><sub>Human-centered products</sub></td>
+  </tr>
+</table>
+
 ```text
 focus/
 ├── applied-ai       → practical systems with a clear user outcome
@@ -36,6 +45,20 @@ focus/
 ├── explainability   → evidence alongside predictions
 └── deployment       → usable interfaces and maintainable backends
 ```
+
+## How I Build
+
+```text
+signal          → understand the real problem
+architecture    → choose the simplest useful system
+intelligence   → train, retrieve, reason, or orchestrate
+interface       → make the result clear and usable
+iteration       → test assumptions and improve the edges
+```
+
+<p align="center">
+  <sub>From model output to a product someone can actually use.</sub>
+</p>
 
 ## Featured Work
 
@@ -81,6 +104,23 @@ Three projects that best represent how I build: useful, explainable, and human-c
 
 </details>
 
+## Experience & Education
+
+<table>
+  <tr>
+    <td width="22%" valign="top"><strong>2024</strong></td>
+    <td><strong>Machine Learning Engineer Intern · Ram Technologies</strong><br /><sub>Virtual internship focused on machine-learning prediction tasks.</sub></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>2022 — 2026</strong></td>
+    <td><strong>B.E. Computer Science & Engineering (AI & ML)</strong><br /><sub>Lords Institute of Engineering & Technology · Hyderabad, India</sub></td>
+  </tr>
+  <tr>
+    <td width="22%" valign="top"><strong>April 2025</strong></td>
+    <td><strong>Code2Skill · First Prize</strong><br /><sub>LIET Microsoft Students Club competition powered by HackerRank.</sub></td>
+  </tr>
+</table>
+
 ## Toolkit
 
 <table>
@@ -98,6 +138,20 @@ Three projects that best represent how I build: useful, explainable, and human-c
   </tr>
 </table>
 
+<details>
+<summary><strong>What I reach for first</strong></summary>
+<br />
+
+| Need | Starting point |
+| --- | --- |
+| Predictive modelling | Python · scikit-learn · Pandas |
+| Deep learning | TensorFlow/Keras · PyTorch · OpenCV |
+| Grounded generation | LangChain · LangGraph · RAG · vector stores |
+| Product interface | React · FastAPI · Streamlit |
+| Delivery and collaboration | Git · GitHub · GitHub Actions |
+
+</details>
+
 ## Credentials & Milestones
 
 The following are listed in my portfolio and supporting project records:
@@ -109,6 +163,21 @@ The following are listed in my portfolio and supporting project records:
 - **Code2Skill — First Prize** — LIET Microsoft Students Club competition powered by HackerRank, April 2025
 
 > Certificate images and the latest credential details are maintained in the [portfolio repository](https://github.com/sn7z/Portfolio). No third-party credential URLs are added here unless publicly verified.
+
+## Build Notes
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>What matters to me</strong><br /><br />
+      Clear interfaces, grounded answers, useful explanations, and systems that respect the people using them.
+    </td>
+    <td width="50%" valign="top">
+      <strong>What I’m exploring</strong><br /><br />
+      Applied generative AI, agent workflows, explainable multimodal systems, and reliable deployment patterns.
+    </td>
+  </tr>
+</table>
 
 ## GitHub Contributions
 
