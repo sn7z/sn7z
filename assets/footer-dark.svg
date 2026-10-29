@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Syed Numaan — closing signature">
+  <title>Syed Numaan — footer</title>
+  <defs>
+    <linearGradient id="fd-l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.05"/>
+      <stop offset="0.5" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="fd-g" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="120" rx="14" fill="#0b0f0d"/>
+  <rect width="1000" height="120" rx="14" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1"/>
+  <circle cx="210" cy="34" r="1.1" fill="#8ff5cf"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="40" r="1.0" fill="#8ff5cf"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="130" cy="88" r="0.9" fill="#8ff5cf"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.2s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="880" cy="84" r="1.0" fill="#8ff5cf"><animate attributeName="opacity" values="0.3;0.95;0.3" dur="3.9s" begin="0.9s" repeatCount="indefinite"/></circle>
+
+  <text x="500" y="48" text-anchor="middle"
+        font-family="'Segoe UI Black', 'Arial Black', Impact, 'Franklin Gothic Heavy', sans-serif"
+        font-size="26" font-weight="900" letter-spacing="5" fill="#34d399" filter="url(#fd-g)">SYED NUMAAN</text>
+
+  <rect x="420" y="62" width="160" height="3" rx="1.5" fill="url(#fd-l)"/>
+  <circle r="3" cy="63.5" fill="#fbbf24" filter="url(#fd-g)">
+    <animateMotion path="M420,0 L580,0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="500" y="92" text-anchor="middle"
+        font-family="'Segoe UI', Inter, Arial, sans-serif"
+        font-size="12" font-weight="500" letter-spacing="6" fill="#6b7280">IDEATE · DESIGN · DEVELOP · INNOVATE</text>
+</svg>

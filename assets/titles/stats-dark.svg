@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 112" width="960" height="112" role="img" aria-label="LIVE SIGNALS &#8212; OPEN SOURCE STATS!">
+  <title>LIVE SIGNALS &#8212; OPEN SOURCE STATS!</title>
+  <defs>
+    <linearGradient id="tltdu_stats" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="tltdf_stats" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="111" rx="14" fill="#0d1210"/>
+  <rect x="0.5" y="0.5" width="959" height="111" rx="14" fill="none" stroke="rgba(255,255,255,0.13)" stroke-width="1"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;7 -4;0 0" dur="20s" repeatCount="indefinite"/>
+    <circle cx="88" cy="26" r="1.1" fill="#8ff5cf"><animate attributeName="opacity" values="0.25;0.9;0.25" dur="3.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="86" r="0.9" fill="#8ff5cf"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.1s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="30" r="1.0" fill="#8ff5cf"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.0s" begin="0.9s" repeatCount="indefinite"/></circle>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-6 5;0 0" dur="26s" repeatCount="indefinite"/>
+    <circle cx="886" cy="82" r="1.1" fill="#8ff5cf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3.7s" begin="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="70"  cy="70" r="0.9" fill="#8ff5cf"><animate attributeName="opacity" values="0.3;0.95;0.3" dur="4.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="905" cy="24" r="1.0" fill="#8ff5cf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" begin="1.7s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="480" y="52" text-anchor="middle"
+        font-family="'Segoe UI Black', 'Arial Black', Impact, 'Franklin Gothic Heavy', sans-serif"
+        font-size="30" font-weight="900" letter-spacing="3" fill="#ffffff" textLength="856" lengthAdjust="spacingAndGlyphs">LIVE SIGNALS <tspan fill="#34d399">&#8212; OPEN SOURCE STATS!</tspan></text>
+  <rect x="320" y="86" width="320" height="4" rx="2" fill="url(#tltdu_stats)"/>
+  <circle r="3.5" cy="88" fill="#fbbf24" filter="url(#tltdf_stats)">
+    <animateMotion path="M320,0 L640,0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

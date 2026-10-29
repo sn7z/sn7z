@@ -1,207 +1,165 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Syed Numaan — AI/ML Engineer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <img src="./assets/hero-light.svg" alt="Syed Numaan — AI/ML Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sn7z"><img src="https://img.shields.io/badge/GitHub-0b0f0d?style=for-the-badge&logo=github&logoColor=34d399&labelColor=0d1210" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><img src="https://img.shields.io/badge/LinkedIn-0b0f0d?style=for-the-badge&logo=linkedin&logoColor=34d399&labelColor=0d1210" alt="LinkedIn" /></a>
-  <a href="mailto:syednumaan15@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f0d?style=for-the-badge&logo=gmail&logoColor=fbbf24&labelColor=0d1210" alt="Email" /></a>
-  <a href="https://syed-numaan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0f0d?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1210" alt="Portfolio" /></a>
+  <a href="https://syed-numaan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1210?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=064e3b" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><img src="https://img.shields.io/badge/LINKEDIN-0d1210?style=flat-square&logo=linkedin&logoColor=34d399&labelColor=059669" alt="LinkedIn" /></a>
+  <a href="https://github.com/sn7z"><img src="https://img.shields.io/badge/GITHUB-0d1210?style=flat-square&logo=github&logoColor=ffffff&labelColor=0b0f0d" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/syednumaan15/"><img src="https://img.shields.io/badge/LEETCODE-0d1210?style=flat-square&logo=leetcode&logoColor=fbbf24&labelColor=92400e" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
-  <em>Applied AI · Generative AI · Explainable ML · Product-minded engineering</em>
+  <em>Ideate. Design. Develop. Innovate.</em>
 </p>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#featured-work">Projects</a> ·
-  <a href="#toolkit">Toolkit</a> ·
-  <a href="#credentials--milestones">Credentials</a> ·
-  <a href="#connect">Connect</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/titles/about-dark.svg" />
+    <img src="./assets/titles/about-light.svg" alt="About Me — Behind the Code!" width="100%" />
+  </picture>
 </p>
-
-<img src="./assets/section-divider.svg" alt="" width="100%" />
-
-## About
-
-I’m **Syed Numaan**, an AI/ML Engineer from Hyderabad, India, focused on turning technical ideas into useful products. My work sits at the intersection of machine learning, deep learning, generative AI, backend systems, and clear user experiences.
-
-I’m currently pursuing a **B.E. in Computer Science & Engineering (AI & ML)** at Lords Institute of Engineering & Technology (2022–2026). I enjoy building from the model layer to the interface: multimodal detection, knowledge graphs, RAG assistants, AI agents, and social-impact software.
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>01</strong><br /><sub>Applied AI</sub></td>
-    <td align="center" width="25%"><strong>02</strong><br /><sub>Generative AI</sub></td>
-    <td align="center" width="25%"><strong>03</strong><br /><sub>Explainable ML</sub></td>
-    <td align="center" width="25%"><strong>04</strong><br /><sub>Human-centered products</sub></td>
-  </tr>
-</table>
-
-```text
-focus/
-├── applied-ai       → practical systems with a clear user outcome
-├── genai-and-rag    → grounded assistants, retrieval, and agent workflows
-├── explainability   → evidence alongside predictions
-└── deployment       → usable interfaces and maintainable backends
-```
-
-## How I Build
-
-```text
-signal          → understand the real problem
-architecture    → choose the simplest useful system
-intelligence   → train, retrieve, reason, or orchestrate
-interface       → make the result clear and usable
-iteration       → test assumptions and improve the edges
-```
 
 <p align="center">
-  <sub>From model output to a product someone can actually use.</sub>
+  <strong>AI/ML Engineer</strong> focused on Applied AI and Generative AI.<br />
+  I build practical AI systems from model to interface — useful experiences, explainable results, reliable engineering.
+</p>
+<p align="center">
+  <sub>Hyderabad, India · Open to collaboration</sub>
 </p>
 
-## Featured Work
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/titles/skills-dark.svg" />
+    <img src="./assets/titles/skills-light.svg" alt="Technical Skills — Core Expertise!" width="100%" />
+  </picture>
+</p>
 
-Three projects that best represent how I build: useful, explainable, and human-centered.
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1210?style=for-the-badge&logo=python&logoColor=34d399&labelColor=064e3b" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0d1210?style=for-the-badge&logoColor=34d399&labelColor=064e3b" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0d1210?style=for-the-badge&logo=cplusplus&logoColor=34d399&labelColor=064e3b" alt="C++" />
+  <img src="https://img.shields.io/badge/C-0d1210?style=for-the-badge&labelColor=064e3b" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-0d1210?style=for-the-badge&labelColor=064e3b" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-0d1210?style=for-the-badge&logo=html5&logoColor=34d399&labelColor=064e3b" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-0d1210?style=for-the-badge&logo=css3&logoColor=34d399&labelColor=064e3b" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1210?style=for-the-badge&logo=javascript&logoColor=34d399&labelColor=064e3b" alt="JavaScript" />
+</p>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>DeepSense</h3>
-      <p><strong>Explainable multimodal deepfake detection</strong></p>
-      <p>Detects manipulated images, audio, and video with model-specific evidence: Grad-CAM heatmaps, spectral analysis, and plain-language forensic explanations.</p>
-      <sub>Python · TensorFlow/Keras · Streamlit · Gemini · XAI</sub>
-      <br /><br />
-      <a href="https://github.com/sn7z/DeepSense">Repository</a> ·
-      <a href="https://ijesr.org/index.php/ijesr/article/view/1636">Publication</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>MindCanvas</h3>
-      <p><strong>AI knowledge graph for the web</strong></p>
-      <p>Turns browsing content into a searchable knowledge network with topic extraction, relationship mapping, semantic search, RAG chat, and a Chrome extension.</p>
-      <sub>React · FastAPI · Supabase/pgvector · LangChain · Cytoscape.js</sub>
-      <br /><br />
-      <a href="https://github.com/sn7z/MindCanvas">Repository</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>H.E.A.R.</h3>
-      <p><strong>Harassment Evaluation and Action Response</strong></p>
-      <p>A social-impact platform for incident reporting, awareness resources, AI-assisted support through Saheli, and emergency-help features.</p>
-      <sub>React · Tailwind CSS · Node.js/Express · MySQL · LangChain/OpenAI</sub>
-      <br /><br />
-      <a href="https://github.com/sn7z/H.E.A.R">Repository</a>
-    </td>
-  </tr>
-</table>
+<p align="center"><strong>ML &amp; Data · DL &amp; CV</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-0d1210?style=for-the-badge&logo=scikitlearn&logoColor=34d399&labelColor=064e3b" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-0d1210?style=for-the-badge&logo=numpy&logoColor=34d399&labelColor=064e3b" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0d1210?style=for-the-badge&logo=pandas&logoColor=34d399&labelColor=064e3b" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-0d1210?style=for-the-badge&labelColor=064e3b" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/seaborn-0d1210?style=for-the-badge&labelColor=064e3b" alt="seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-0d1210?style=for-the-badge&logo=plotly&logoColor=34d399&labelColor=064e3b" alt="Plotly" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d1210?style=for-the-badge&logo=tensorflow&logoColor=34d399&labelColor=064e3b" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-0d1210?style=for-the-badge&logo=pytorch&logoColor=34d399&labelColor=064e3b" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-0d1210?style=for-the-badge&labelColor=064e3b" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-0d1210?style=for-the-badge&logo=opencv&logoColor=34d399&labelColor=064e3b" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-0d1210?style=for-the-badge&labelColor=064e3b" alt="YOLO" />
+</p>
 
-<details>
-<summary><strong>More work</strong></summary>
-<br />
+<p align="center"><strong>GenAI &amp; Agents</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-0d1210?style=for-the-badge&labelColor=064e3b" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-0d1210?style=for-the-badge&labelColor=064e3b" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/CrewAI-0d1210?style=for-the-badge&labelColor=064e3b" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/LangGraph-0d1210?style=for-the-badge&labelColor=064e3b" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-0d1210?style=for-the-badge&labelColor=064e3b" alt="RAG" />
+</p>
 
-- **[DEV-Agent](https://github.com/sn7z/DEV-Agent)** — an LLM-driven engineering workflow that turns a natural-language prompt into a plan and iteratively implements it with tool-enabled coder agents.
-- **[Multi-Modal-RAG](https://github.com/sn7z/Multi-Modal-RAG)** — a Streamlit RAG assistant for PDFs, text, Markdown, and web URLs with source attribution.
-- **[KidsCare-Pro](https://github.com/sn7z/KidsCare-Pro)** — a child-health management and prediction platform concept with profiles, milestones, appointments, and dashboards.
+<p align="center"><strong>Backend · Frontend · Databases · Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0d1210?style=for-the-badge&logo=fastapi&logoColor=34d399&labelColor=064e3b" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0d1210?style=for-the-badge&logo=flask&logoColor=34d399&labelColor=064e3b" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-0d1210?style=for-the-badge&labelColor=064e3b" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0d1210?style=for-the-badge&labelColor=064e3b" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/React-0d1210?style=for-the-badge&logo=react&logoColor=34d399&labelColor=064e3b" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1210?style=for-the-badge&logo=tailwindcss&logoColor=34d399&labelColor=064e3b" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-0d1210?style=for-the-badge&logo=mysql&logoColor=34d399&labelColor=064e3b" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-0d1210?style=for-the-badge&logo=supabase&logoColor=34d399&labelColor=064e3b" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQLite-0d1210?style=for-the-badge&logo=sqlite&logoColor=34d399&labelColor=064e3b" alt="SQLite" />
+  <img src="https://img.shields.io/badge/ChromaDB-0d1210?style=for-the-badge&labelColor=064e3b" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/FAISS-0d1210?style=for-the-badge&labelColor=064e3b" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Git-0d1210?style=for-the-badge&logo=git&logoColor=34d399&labelColor=064e3b" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0d1210?style=for-the-badge&logo=githubactions&logoColor=34d399&labelColor=064e3b" alt="GitHub Actions" />
+</p>
 
-</details>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/titles/certifications-dark.svg" />
+    <img src="./assets/titles/certifications-light.svg" alt="Certifications — Learning Milestones!" width="100%" />
+  </picture>
+</p>
 
-## Experience & Education
+<div align="center">
 
-<table>
-  <tr>
-    <td width="22%" valign="top"><strong>2024</strong></td>
-    <td><strong>Machine Learning Engineer Intern · Ram Technologies</strong><br /><sub>Virtual internship focused on machine-learning prediction tasks.</sub></td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>2022 — 2026</strong></td>
-    <td><strong>B.E. Computer Science & Engineering (AI & ML)</strong><br /><sub>Lords Institute of Engineering & Technology · Hyderabad, India</sub></td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><strong>April 2025</strong></td>
-    <td><strong>Code2Skill · First Prize</strong><br /><sub>LIET Microsoft Students Club competition powered by HackerRank.</sub></td>
-  </tr>
-</table>
-
-## Toolkit
-
-<table>
-  <tr>
-    <td><strong>Languages</strong><br />Python · Java · C · C++ · SQL · JavaScript · HTML · CSS</td>
-    <td><strong>ML & data</strong><br />scikit-learn · NumPy · Pandas · Matplotlib · Plotly · seaborn</td>
-  </tr>
-  <tr>
-    <td><strong>Deep learning</strong><br />TensorFlow · PyTorch · Keras · OpenCV · YOLO</td>
-    <td><strong>GenAI & agents</strong><br />LangChain · LangGraph · LlamaIndex · CrewAI · RAG</td>
-  </tr>
-  <tr>
-    <td><strong>Apps & backend</strong><br />React · FastAPI · Flask · Streamlit · REST APIs</td>
-    <td><strong>Data & workflow</strong><br />MySQL · Supabase · SQLite · ChromaDB · FAISS · GitHub Actions</td>
-  </tr>
-</table>
-
-<details>
-<summary><strong>What I reach for first</strong></summary>
-<br />
-
-| Need | Starting point |
+| Milestone | Details |
 | --- | --- |
-| Predictive modelling | Python · scikit-learn · Pandas |
-| Deep learning | TensorFlow/Keras · PyTorch · OpenCV |
-| Grounded generation | LangChain · LangGraph · RAG · vector stores |
-| Product interface | React · FastAPI · Streamlit |
-| Delivery and collaboration | Git · GitHub · GitHub Actions |
+| 🥇 **Code2Skill — First Prize** | Coding competition, LIET Microsoft Students Club × HackerRank · *April 2025* |
+| 🟢 **Oracle OCI 2025 Certified Generative AI Professional** | LLM foundations, prompt engineering, RAG on OCI · ID `102918478OCI25GAIOCP` |
+| 🟢 **Columbia University — Artificial Intelligence II (Columbia+)** | Applied AI and ML methods · ID `161188123` |
+| 🟢 **HP — Data Science and Analytics Course** | Data analysis workflows and practical analytics |
+| 🟢 **AWS Solutions Architect (Trained)** | Compute, storage, networking and resilient cloud design |
 
-</details>
-
-## Credentials & Milestones
-
-The following are listed in my portfolio and supporting project records:
-
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — credential ID `102918478OCI25GAIOCP`
-- **Columbia University — AI-II online course** — credential ID `161188123`
-- **HP — Data Science and Analytics course** — credential ID `9005d1b9-e02c-4826-8054-e1798f56fcb0`
-- **AWS Solutions Architect** — certificate image listed in my portfolio; credential type/status is intentionally not overstated here
-- **Code2Skill — First Prize** — LIET Microsoft Students Club competition powered by HackerRank, April 2025
-
-> Certificate images and the latest credential details are maintained in the [portfolio repository](https://github.com/sn7z/Portfolio). No third-party credential URLs are added here unless publicly verified.
-
-## Build Notes
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>What matters to me</strong><br /><br />
-      Clear interfaces, grounded answers, useful explanations, and systems that respect the people using them.
-    </td>
-    <td width="50%" valign="top">
-      <strong>What I’m exploring</strong><br /><br />
-      Applied generative AI, agent workflows, explainable multimodal systems, and reliable deployment patterns.
-    </td>
-  </tr>
-</table>
-
-## GitHub Contributions
+</div>
 
 <p align="center">
-  <a href="https://github.com/sn7z/snk">
-    <img src="https://raw.githubusercontent.com/sn7z/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/titles/stats-dark.svg" />
+    <img src="./assets/titles/stats-light.svg" alt="Live Signals — Open Source Stats!" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <sub>Contribution activity is rendered by my <a href="https://github.com/sn7z/snk">snk</a> workflow.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sn7z&hide_border=true&background=0D1210&border=064E3B&borderRadius=10&ring=34D399&fire=34D399&currStreakLabel=34D399&currStreakNum=FFFFFF&sideNums=D1D5DB&sideLabels=9CA3AF&dates=6B7280" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sn7z&hide_border=true&background=F5F3EA&border=10A05B&borderRadius=10&ring=0A7F5E&fire=D97706&currStreakLabel=0A7F5E&currStreakNum=12302A&sideNums=2B4A3E&sideLabels=476559&dates=6B7280" />
+    <img src="https://streak-stats.demolab.com?user=sn7z&locale=en&hide_border=true" alt="GitHub streak" width="49%" />
+  </picture>
+  <img src="https://leetcard.jacoblin.cool/syednumaan15?theme=nord&ext=contest" alt="LeetCode stats card" width="49%" />
 </p>
 
-## Connect
+<!-- <p align="center">
+  <img src="https://img.shields.io/github/followers/sn7z?label=Followers&style=flat-square&color=0d1210&labelColor=064e3b&logo=github&logoColor=34d399" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sn7z?affiliations=%3F&label=Stars&style=flat-square&color=0d1210&labelColor=064e3b&logo=github&logoColor=34d399" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/gists/sn7z?label=Gists&style=flat-square&color=0d1210&labelColor=064e3b&logo=github&logoColor=34d399" alt="GitHub gists" />
+</p> -->
 
-I’m open to connecting with people working on AI/ML, generative AI, and practical software projects.
+<!-- <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/titles/connect-dark.svg" />
+    <img src="./assets/titles/connect-light.svg" alt="Web Presence — Dev Network!" width="100%" />
+  </picture>
+</p>
 
-<p>
-  <a href="mailto:syednumaan15@gmail.com">✉️ Email</a> ·
-  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/syednumaan15/">LeetCode</a> ·
-  <a href="https://syed-numaan-portfolio.vercel.app/">Portfolio</a>
+<!-- <p align="center">
+  <a href="https://syed-numaan-portfolio.vercel.app/"><strong>Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><strong>LinkedIn</strong></a> ·
+  <a href="https://github.com/sn7z"><strong>GitHub</strong></a> ·
+  <a href="https://leetcode.com/u/syednumaan15/"><strong>LeetCode</strong></a>
 </p>
 
 <p align="center">
-  <img src="./assets/profile-footer.svg" alt="Keep building, keep learning." width="100%" />
+  <sub>🎮 Off the clock — <a href="https://syed-numaan-portfolio.vercel.app/#bug-hunt">play <strong>Bug Hunt</strong></a> and chat with <a href="https://syed-numaan-portfolio.vercel.app/#chat"><strong>Ask My AI</strong></a>, live on the portfolio.</sub>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/heatmap-dark.svg" />
+    <img src="./assets/heatmap-light.svg" alt="GitHub contribution heatmap — real data, last 12 months" width="100%" />
+  </picture>
+</p> --> 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <img src="./assets/footer-light.svg" alt="Syed Numaan — closing signature" width="100%" />
+  </picture>
 </p>
