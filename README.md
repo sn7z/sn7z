@@ -1,122 +1,138 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&width=150"/>
-</p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Syed Numaan</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:syednumaan15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sn7z"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="200" style="vertical-align: middle; margin-right: 10px;">
-  AI/ML & Data Science Engineer
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="200" style="vertical-align: middle; margin-left: 10px;">
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;AI+%2B+ML+%2B+DS+Engineer+in+the+Making;Building+with+curiosity!" alt="Typing SVG" />
-</p>
-
----
-
-## 🎯 What I Do
-
-I design and develop intelligent AI & ML-powered systems that solve real-world problems, with a focus on automation, data-driven insights, and user-centric solutions. I build end-to-end pipelines—from data preprocessing to model deployment—using modern tools like Python, TensorFlow, PyTorch, and MLOps stacks.
-
-<img align="right" alt="Coding" width="350" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-I’m currently working on:
-- 🔭 **AI & ML-based systems**  
-- 🌱 **MLOps, LangChain, and Deployment tools**  
-- 💬 Ask me about **ML, Deep Learning, Python, Deployment**  
-- 📫 Reach me at **syednumaan15@gmail.com**  
-- 📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/syed-numaan-22a2b52ab/)  
-- ⚡ Fun fact: _“I turn caffeine into code ☕⚙️”_
-
-<br><br>
-<br>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/langchain_icon.png" alt="langchain" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-light.svg" alt="GitHub" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/opencv/opencv-original.svg" alt="NumPy" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="60" height="60" style="margin: 0 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="60" height="60" style="margin: 0 10px;">
-</p>
-
-
----
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sn7z&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sn7z&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sn7z&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sn7z&theme=dark" />
-</p>
-
----
--->
-## 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/syednumaan15?theme=nord&ext=contest" />
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  I'm always excited to collaborate on innovative projects, especially in the fields of AI, Machine Learning, and Data Science. Whether it's a research initiative, a startup idea, or open-source contribution, I'm open to meaningful opportunities that drive impact. Feel free to reach out — <strong>let’s build something awesome together!</strong><br><img width=50 height=50 src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"/><br>
-  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:syednumaan15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sn7z"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 🐍 Contribution
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sn7z/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./assets/profile-hero.svg" alt="Syed Numaan — AI/ML Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&width=150"/>
+  <a href="https://github.com/sn7z"><img src="https://img.shields.io/badge/GitHub-0b0f0d?style=for-the-badge&logo=github&logoColor=34d399&labelColor=0d1210" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/"><img src="https://img.shields.io/badge/LinkedIn-0b0f0d?style=for-the-badge&logo=linkedin&logoColor=34d399&labelColor=0d1210" alt="LinkedIn" /></a>
+  <a href="mailto:syednumaan15@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f0d?style=for-the-badge&logo=gmail&logoColor=fbbf24&labelColor=0d1210" alt="Email" /></a>
+  <a href="https://syed-numaan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0f0d?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1210" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <em>Applied AI · Generative AI · Explainable ML · Product-minded engineering</em>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#featured-work">Projects</a> ·
+  <a href="#toolkit">Toolkit</a> ·
+  <a href="#credentials--milestones">Credentials</a> ·
+  <a href="#connect">Connect</a>
+</p>
+
+<img src="./assets/section-divider.svg" alt="" width="100%" />
+
+## About
+
+I’m **Syed Numaan**, an AI/ML Engineer from Hyderabad, India, focused on turning technical ideas into useful products. My work sits at the intersection of machine learning, deep learning, generative AI, backend systems, and clear user experiences.
+
+I’m currently pursuing a **B.E. in Computer Science & Engineering (AI & ML)** at Lords Institute of Engineering & Technology (2022–2026). I enjoy building from the model layer to the interface: multimodal detection, knowledge graphs, RAG assistants, AI agents, and social-impact software.
+
+```text
+focus/
+├── applied-ai       → practical systems with a clear user outcome
+├── genai-and-rag    → grounded assistants, retrieval, and agent workflows
+├── explainability   → evidence alongside predictions
+└── deployment       → usable interfaces and maintainable backends
+```
+
+## Featured Work
+
+Three projects that best represent how I build: useful, explainable, and human-centered.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>DeepSense</h3>
+      <p><strong>Explainable multimodal deepfake detection</strong></p>
+      <p>Detects manipulated images, audio, and video with model-specific evidence: Grad-CAM heatmaps, spectral analysis, and plain-language forensic explanations.</p>
+      <sub>Python · TensorFlow/Keras · Streamlit · Gemini · XAI</sub>
+      <br /><br />
+      <a href="https://github.com/sn7z/DeepSense">Repository</a> ·
+      <a href="https://ijesr.org/index.php/ijesr/article/view/1636">Publication</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>MindCanvas</h3>
+      <p><strong>AI knowledge graph for the web</strong></p>
+      <p>Turns browsing content into a searchable knowledge network with topic extraction, relationship mapping, semantic search, RAG chat, and a Chrome extension.</p>
+      <sub>React · FastAPI · Supabase/pgvector · LangChain · Cytoscape.js</sub>
+      <br /><br />
+      <a href="https://github.com/sn7z/MindCanvas">Repository</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>H.E.A.R.</h3>
+      <p><strong>Harassment Evaluation and Action Response</strong></p>
+      <p>A social-impact platform for incident reporting, awareness resources, AI-assisted support through Saheli, and emergency-help features.</p>
+      <sub>React · Tailwind CSS · Node.js/Express · MySQL · LangChain/OpenAI</sub>
+      <br /><br />
+      <a href="https://github.com/sn7z/H.E.A.R">Repository</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>More work</strong></summary>
+<br />
+
+- **[DEV-Agent](https://github.com/sn7z/DEV-Agent)** — an LLM-driven engineering workflow that turns a natural-language prompt into a plan and iteratively implements it with tool-enabled coder agents.
+- **[Multi-Modal-RAG](https://github.com/sn7z/Multi-Modal-RAG)** — a Streamlit RAG assistant for PDFs, text, Markdown, and web URLs with source attribution.
+- **[KidsCare-Pro](https://github.com/sn7z/KidsCare-Pro)** — a child-health management and prediction platform concept with profiles, milestones, appointments, and dashboards.
+
+</details>
+
+## Toolkit
+
+<table>
+  <tr>
+    <td><strong>Languages</strong><br />Python · Java · C · C++ · SQL · JavaScript · HTML · CSS</td>
+    <td><strong>ML & data</strong><br />scikit-learn · NumPy · Pandas · Matplotlib · Plotly · seaborn</td>
+  </tr>
+  <tr>
+    <td><strong>Deep learning</strong><br />TensorFlow · PyTorch · Keras · OpenCV · YOLO</td>
+    <td><strong>GenAI & agents</strong><br />LangChain · LangGraph · LlamaIndex · CrewAI · RAG</td>
+  </tr>
+  <tr>
+    <td><strong>Apps & backend</strong><br />React · FastAPI · Flask · Streamlit · REST APIs</td>
+    <td><strong>Data & workflow</strong><br />MySQL · Supabase · SQLite · ChromaDB · FAISS · GitHub Actions</td>
+  </tr>
+</table>
+
+## Credentials & Milestones
+
+The following are listed in my portfolio and supporting project records:
+
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** — credential ID `102918478OCI25GAIOCP`
+- **Columbia University — AI-II online course** — credential ID `161188123`
+- **HP — Data Science and Analytics course** — credential ID `9005d1b9-e02c-4826-8054-e1798f56fcb0`
+- **AWS Solutions Architect** — certificate image listed in my portfolio; credential type/status is intentionally not overstated here
+- **Code2Skill — First Prize** — LIET Microsoft Students Club competition powered by HackerRank, April 2025
+
+> Certificate images and the latest credential details are maintained in the [portfolio repository](https://github.com/sn7z/Portfolio). No third-party credential URLs are added here unless publicly verified.
+
+## GitHub Contributions
+
+<p align="center">
+  <a href="https://github.com/sn7z/snk">
+    <img src="https://raw.githubusercontent.com/sn7z/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Contribution activity is rendered by my <a href="https://github.com/sn7z/snk">snk</a> workflow.</sub>
+</p>
+
+## Connect
+
+I’m open to connecting with people working on AI/ML, generative AI, and practical software projects.
+
+<p>
+  <a href="mailto:syednumaan15@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/syed-numaan-22a2b52ab/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/syednumaan15/">LeetCode</a> ·
+  <a href="https://syed-numaan-portfolio.vercel.app/">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="./assets/profile-footer.svg" alt="Keep building, keep learning." width="100%" />
 </p>
