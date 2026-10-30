@@ -1,0 +1,36 @@
+
+name: Daily Activity Log
+
+on:
+  schedule:
+    # Runs daily at 8:30 PM IST
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update activity log
+        run: |
+          mkdir -p activity
+          echo "$(date -u +'%Y-%m-%d') - Scheduled repository maintenance" >> activity/log.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "sn7z"
+          git config user.email "syednumaan15@gmail.com"
+
+          git add activity/log.md
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update activity log"
+            git push
+          fi
